@@ -1,0 +1,36 @@
+{
+  "roots": [
+    {
+      "key": "w4kjcpsznc8krdo4g27gi13",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "t3k4gbegotaiu5dit1ve8yq",
+          "title": "Posts",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "lqkegvy1dy2ew7ihafa46es",
+              "title": "First",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "w4kjcpsznc8krdo4g27gi13": null,
+    "t3k4gbegotaiu5dit1ve8yq": "w4kjcpsznc8krdo4g27gi13",
+    "lqkegvy1dy2ew7ihafa46es": "t3k4gbegotaiu5dit1ve8yq"
+  }
+}
