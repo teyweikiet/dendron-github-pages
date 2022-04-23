@@ -1,0 +1,15 @@
+{
+  "name": "dendron-github-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:teyweikiet/dendron.git",
+  "author": "twk <62234901+twk@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "npx dendron publish dev"
+  },
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.91.0"
+  }
+}
