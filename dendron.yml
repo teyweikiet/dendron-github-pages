@@ -80,13 +80,14 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
+    assetsPrefix: /template.publish.github-action
     copyAssets: true
     siteHierarchies:
         - root
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
+        title: Demo Dendron Site
         description: Personal Knowledge Space
     github:
         enableEditLink: true
@@ -102,5 +103,4 @@ publishing:
         action: useVault
         payload:
             - vault
-    assetsPrefix: /template.publish.github-action
-    siteUrl: https://teyweikiet.github.io/dendron-github-pages/
+    siteUrl: https://teyweikiet.github.io/
