@@ -80,7 +80,7 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /template.publish.github-action
+    assetsPrefix: /dendron-github-pages
     copyAssets: true
     siteHierarchies:
         - root

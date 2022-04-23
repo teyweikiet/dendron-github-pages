@@ -5,4 +5,4 @@ Visit demo site [here](https://teyweikiet.github.io/dendron-github-pages/).
 
 ## Tips
 ### CSS doesn't load properly
-- check assetsPrefix & siteUrl
+- check assetsPrefix & siteUrl (for github pages assetsPrefix should be repository name & siteUrl should be https://<OWNER>.github.io)
