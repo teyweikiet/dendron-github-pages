@@ -102,4 +102,5 @@ publishing:
         action: useVault
         payload:
             - vault
+    assetsPrefix: /template.publish.github-action
     siteUrl: https://teyweikiet.github.io/dendron-github-pages/
