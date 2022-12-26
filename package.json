@@ -11,6 +11,6 @@
     "build": "npx dendron publish export"
   },
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.91.0"
+    "@dendronhq/dendron-cli": "^0.119.0"
   }
 }
