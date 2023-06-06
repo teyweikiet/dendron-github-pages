@@ -1,0 +1,29 @@
+{
+  "roots": [
+    {
+      "key": "ooerrqw2es74jed4dkv8p3l",
+      "title": "Posts",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "lqkegvy1dy2ew7ihafa46es",
+          "title": "First",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "ooerrqw2es74jed4dkv8p3l": null,
+    "lqkegvy1dy2ew7ihafa46es": "ooerrqw2es74jed4dkv8p3l"
+  },
+  "notesLabelById": {
+    "ooerrqw2es74jed4dkv8p3l": "Posts",
+    "lqkegvy1dy2ew7ihafa46es": "First"
+  }
+}
